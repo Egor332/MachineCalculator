@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineCalculator", "MachineCalculator.csproj", "{67A752CF-222C-4587-9A1D-73494BCEB98D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineCalculatorTests", "..\MachineCalculatorTests\MachineCalculatorTests.csproj", "{3B6ECBC3-C890-4A3F-8F04-58534EFAEDB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A752CF-222C-4587-9A1D-73494BCEB98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A752CF-222C-4587-9A1D-73494BCEB98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A752CF-222C-4587-9A1D-73494BCEB98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A752CF-222C-4587-9A1D-73494BCEB98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6ECBC3-C890-4A3F-8F04-58534EFAEDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6ECBC3-C890-4A3F-8F04-58534EFAEDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6ECBC3-C890-4A3F-8F04-58534EFAEDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6ECBC3-C890-4A3F-8F04-58534EFAEDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7418A270-923B-4F16-97DF-05AA8442BE35}
+	EndGlobalSection
+EndGlobal
